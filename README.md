@@ -1,5 +1,7 @@
 # loto
 
+![demo](/docs/images/demo.gif)
+
 Proposing lottery ticket candidates for Japan ([Takarakuji](https://ja.wikipedia.org/wiki/%E5%AE%9D%E3%81%8F%E3%81%98)).
 Applicable to "Loto" or "Numbers".
 
